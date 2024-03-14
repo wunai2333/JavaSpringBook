@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/admin.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/book.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/borrow.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/category.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/retur.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/MYSQL/anonymous/ts/user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot/src/main/resources/mapper/Borrow.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot/src/main/resources/mapper/Category.xml" dialect="MySQL" />
+  </component>
+</project>
